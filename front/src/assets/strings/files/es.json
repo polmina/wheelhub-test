@@ -1,0 +1,34 @@
+{
+  "welcome": {
+    "title": "Test Frontend Wheel Hub",
+    "whatWillYouDo": "¿Qué deberá hacer?",
+    "p1": "En la primera pestaña, deberá confirmar que es mayor de edad y que acepta el tratamiento de datos según la política de datos vigentes",
+    "p2": "En la segunda pestaña, deberá crear un usuario, una contraseña y una pista para recordar la contraseña (como dato opcional)",
+    "p3": "En tercer lugar, deberá visualizarse el mensaje de éxito de creación",
+    "checkbox": "Confirma que es mayor de edad, y acepta el tratamiento de sus datos según la política de protección de datos vigente",
+    "button": "Siguiente"
+  },
+  "form": {
+    "title": "Test Frontend Wheel Hub",
+    "username": "Crea tu usuario",
+    "usernamePlaceholder": "Introduce tu usuario",
+    "password": "Crea tu contraseña",
+    "passwordPlaceholder": "Crea tu contraseña",
+    "repeatPassword": "Repite tu contraseña",
+    "repeatPasswordPlaceholder": "Repite tu contraseña",
+    "passwordError": "Mín 8 car. y max 8 car. Debe contener 1 núm y 1 mayús.",
+    "passwordsMatch": "Estos campos deben coincidir",
+    "p": "También puedes crear una pista que te ayude a recordar tu contraseña",
+    "clue": "Crea tu pista para recordar tu contraseña (opcional)",
+    "cluePlaceholder": "Introduce tu pista",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "isRequired": "El campo es obligatorio"
+  },
+  "success": {
+    "accountCreated": "¡La cuenta se creó correctamente!",
+    "text": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse euismod et diam quis dictum. Integer maximus tincidunt dolor, in pretium augue eleifend vitae. Aliquam nisl nunc, ornare et mollis eget, convallis sed tortor. Etiam finibus diam nulla, eget tempor est finibus a. Donec iaculis, elit ut cursus pellentesque, arcu est consequat odio",
+    "back": "Atrás",
+    "toStart": "Volver al inicio"
+  }
+}
